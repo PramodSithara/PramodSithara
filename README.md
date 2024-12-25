@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramod Sithara</h1>
 <h3 align="center">Software Engineer | Back-End Developer</h3>
-https://media.gifdb.com/animated-programmer-guy-coding-790a0bs8e8thpisg.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodsithara&label=Profile%20views&color=0e75b6&style=flat" alt="pramodsithara" /> </p>
 
