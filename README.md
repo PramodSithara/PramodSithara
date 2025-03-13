@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodsithara&label=Profile%20views&color=0e75b6&style=flat" alt="pramodsithara" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://pramodsithara.github.io/My-Portfolio/](https://pramodsithara.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://pramodsithara.github.io/My-Portfolio/](https://portfolio-vxkc.onrender.com/)
 
 - 💬 Ask me about **MERN , NEXTJS , Django , Laravel , Python , .NET Core , Javascript , Java , C++ , C# , PHP**
 
