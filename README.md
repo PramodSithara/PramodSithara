@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pramodsithara.dev](https://portfolio-vxkc.onrender.com/)
 
-- 💬 Ask me about **MERN , NEXTJS , Django , Laravel , Python , .NET Core , Javascript , Java , C++ , C# , PHP**
+- 💬 Ask me about **MERN , NEXTJS , Django , Laravel , Python , React Native , .NET Core , Javascript , Java , C++ , C# , PHP**
 
 - 📫 How to reach me **pramodsithara9999@gmail.com**
 
