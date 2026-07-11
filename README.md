@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN , NEXTJS , Django , Laravel , Python , React Native , .NET Core , Javascript , Java , C++ , C# , PHP**
 
-- 📫 How to reach me **pramodsithara9999@gmail.com**
+- 📫 How to reach me **pramodsitharaofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
